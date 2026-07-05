@@ -29,6 +29,14 @@ The framework helps organizations:
 - Support secure cloud transformation
 - Establish repeatable compliance operating models
 
+## How To Use This Repo
+
+1. Read the framework overview.
+2. Review the control coverage map and control matrix.
+3. Review the cloud risk governance and security governance models.
+4. Use the audit readiness checklist and risk registers for evidence-driven reviews.
+5. Package findings into review templates and executive reporting.
+
 ## Core Content
 
 - [Framework Overview](docs/framework-overview.md)
@@ -62,11 +70,8 @@ templates/          Reusable control and audit templates
 risk-registers/     Risk register models
 governance-models/  Security governance models
 audit-readiness/    Audit readiness checklists
-diagrams/           Control and governance visuals
 evidence/           Use-case notes
 references/         Bibliography
-use-cases/          Example compliance scenarios
-
 ```
 
 ## Start Here
