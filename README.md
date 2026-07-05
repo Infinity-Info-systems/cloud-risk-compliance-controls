@@ -29,6 +29,16 @@ The framework helps organizations:
 - Support secure cloud transformation
 - Establish repeatable compliance operating models
 
+## Core Content
+
+- [Framework Overview](docs/framework-overview.md)
+- [Cloud Risk Governance](docs/cloud-risk-governance.md)
+- [Compliance Alignment](docs/compliance-alignment.md)
+- [Security Governance](docs/security-governance.md)
+- [Zero Trust Controls](docs/zero-trust-controls.md)
+- [Audit Readiness Model](docs/audit-readiness-model.md)
+- [Control Coverage Map](control-matrix/control-coverage-map.md)
+
 ## Framework Components
 
 1. Cloud Risk Governance
@@ -56,3 +66,13 @@ diagrams/           Control and governance visuals
 evidence/           Use-case notes
 references/         Bibliography
 use-cases/          Example compliance scenarios
+
+```
+
+## Start Here
+
+1. Read the framework overview.
+2. Review the control coverage map.
+3. Review the cloud risk governance and security governance models.
+4. Use the control matrix and audit readiness checklist.
+5. Expand risk registers, evidence, and templates next.
