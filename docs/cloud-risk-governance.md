@@ -11,6 +11,8 @@ Cloud risk governance defines how risk is identified, assessed, owned, and remed
 - exceptions must be time-bound
 - remediation should be sequenced by exposure and dependency
 - leadership should review unresolved high-risk items regularly
+- risk decisions should be documented in plain language
+- the review cadence should be predictable
 
 ## Risk Review Questions
 
@@ -26,3 +28,4 @@ Cloud risk governance defines how risk is identified, assessed, owned, and remed
 - remediation plans
 - ownership assignments
 - review meeting notes
+- decision records

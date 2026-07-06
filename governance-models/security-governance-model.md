@@ -18,3 +18,8 @@ This model describes how security decisions, reviews, and exceptions are governe
 - map controls to frameworks
 - maintain an exception log
 - escalate unresolved high-risk gaps
+- review the operating model with business stakeholders
+
+## Model Use
+
+Use this model when you need to explain how security governance decisions move from policy to approval to execution.

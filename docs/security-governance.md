@@ -11,6 +11,8 @@ Security governance defines how security decisions are made, documented, approve
 - track control exceptions centrally
 - tie security decisions to risk and business impact
 - ensure audit-ready evidence is available
+- make escalation paths explicit
+- keep policy review notes current
 
 ## Common Risks
 
@@ -26,3 +28,7 @@ Security governance defines how security decisions are made, documented, approve
 - exception log
 - policy review records
 - security review outcomes
+
+## Why It Matters
+
+Security governance works best when the organization can answer who decided, why they decided it, and what evidence supports the decision.

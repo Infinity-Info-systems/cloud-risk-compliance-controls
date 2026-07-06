@@ -11,6 +11,8 @@ Zero Trust controls ensure access and trust are continuously verified rather tha
 - network segmentation
 - workload trust boundaries
 - privileged access review
+- device and session trust
+- conditional access validation
 
 ## Evidence To Collect
 
@@ -19,3 +21,7 @@ Zero Trust controls ensure access and trust are continuously verified rather tha
 - segmentation diagrams
 - privileged access logs
 - conditional access rules
+
+## Implementation Note
+
+Zero Trust is strongest when controls are visible, testable, and mapped back to actual access paths rather than abstract policy statements.

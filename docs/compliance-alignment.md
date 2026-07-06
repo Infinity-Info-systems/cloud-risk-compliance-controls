@@ -11,6 +11,7 @@ Compliance alignment maps cloud controls to the regulatory, contractual, and pol
 - confirm evidence sources
 - review control testing frequency
 - track gaps and exceptions
+- define how each requirement will be verified
 
 ## Common Frameworks
 
@@ -27,3 +28,7 @@ Compliance alignment maps cloud controls to the regulatory, contractual, and pol
 - control test results
 - evidence artifacts
 - exception approvals
+
+## Alignment Outcome
+
+The goal is not just to claim compliance. The goal is to show the control chain clearly enough that an internal or external reviewer can follow it without guesswork.

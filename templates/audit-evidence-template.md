@@ -14,3 +14,5 @@
 - what the evidence proves
 - any limitations
 - any follow-up required
+- related control or requirement
+- evidence reviewer

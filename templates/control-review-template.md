@@ -19,3 +19,9 @@
 - pass
 - needs follow-up
 - exception required
+
+## Review Notes
+
+- key observations
+- risk impact
+- next action

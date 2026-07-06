@@ -17,3 +17,7 @@ This page gives a practical starting point for mapping cloud controls to common 
 - HIPAA emphasizes protection of regulated data and access control
 - SOC 2 emphasizes control design and operating effectiveness
 - FedRAMP emphasizes standardized, auditable cloud control implementation
+
+## Practical Use
+
+Use this page as a quick mapping guide when a team needs to understand which evidence artifacts matter most for each common framework.

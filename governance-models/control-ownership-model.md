@@ -18,3 +18,9 @@ Control ownership should be explicit so every control has a responsible party, r
 - the owner must know the evidence source
 - review cadence should be defined
 - exceptions should have a separate approval path
+- owners should know who reviews the evidence
+- ownership should not be shared ambiguously
+
+## Ownership Outcome
+
+Clear ownership shortens the time between finding a gap and fixing it.

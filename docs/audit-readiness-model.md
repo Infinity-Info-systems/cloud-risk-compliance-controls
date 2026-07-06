@@ -11,6 +11,7 @@ The audit readiness model helps teams keep evidence, control testing, and except
 - exceptions are approved and tracked
 - review cycles are documented
 - remediation items are measured to closure
+- the team can answer audit questions without searching across disconnected folders
 
 ## Audit Questions
 
@@ -18,3 +19,7 @@ The audit readiness model helps teams keep evidence, control testing, and except
 - Can the team show who owns the control?
 - Can the team show the last review or test?
 - Can the team show how exceptions are handled?
+
+## Readiness Rule
+
+If evidence cannot be shown quickly and consistently, the control is not ready even if the policy exists.

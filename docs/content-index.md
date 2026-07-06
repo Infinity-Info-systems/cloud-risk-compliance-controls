@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for cloud risk governance, compliance alignment, and audit readiness.
+Use it as the fastest way to find the right control, register, or review artifact.
 
 ## Entry Points
 
@@ -12,6 +13,14 @@ This index organizes the repo into a front door for cloud risk governance, compl
 - [Security Governance](./security-governance.md)
 - [Zero Trust Controls](./zero-trust-controls.md)
 - [Audit Readiness Model](./audit-readiness-model.md)
+
+## Reading Order
+
+1. Framework overview
+2. Control coverage map
+3. Cloud control matrix
+4. Governance models
+5. Risk registers and review templates
 
 ## Governance and Control Assets
 
@@ -34,6 +43,12 @@ This index organizes the repo into a front door for cloud risk governance, compl
 
 - [Bibliography](../references/bibliography.md)
 - [Use-Case Notes](../evidence/use-case-notes.md)
+
+## Index Notes
+
+- keep every control page tied to an evidence artifact
+- use the same terminology across risk, control, and audit pages
+- update this index whenever a new framework or template is added
 
 ## Shared Direction
 

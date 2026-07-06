@@ -68,6 +68,8 @@ Recommended cadence:
 - link each control to one evidence artifact
 - review unresolved exceptions with due dates
 - keep control coverage visible in executive reporting
+- maintain a single control vocabulary across the ecosystem
+- mark any control that relies on manual evidence gathering
 
 ## Related Artifacts
 
