@@ -6,6 +6,16 @@ This map connects the key cloud risk and compliance domains to the artifacts nee
 
 Use this map to understand which controls exist, which evidence supports them, and where the gaps are.
 
+## Coverage Summary
+
+| Control Domain | Coverage Focus | Primary Evidence |
+| --- | --- | --- |
+| Security Governance | Control ownership and accountability | Ownership model |
+| Compliance Alignment | HIPAA, SOC 2, FedRAMP mapping | Control matrix |
+| Risk Governance | Risk register and remediation | Risk register |
+| Zero Trust Controls | Access and segmentation baseline | Control review |
+| Audit Readiness | Evidence and exceptions | Checklist |
+
 ## Coverage Domains
 
 ### 1. Security Governance
@@ -70,6 +80,10 @@ Recommended cadence:
 - keep control coverage visible in executive reporting
 - maintain a single control vocabulary across the ecosystem
 - mark any control that relies on manual evidence gathering
+
+## Coverage Rule
+
+No control should be considered covered until the coverage map, the evidence artifact, and the owner all agree.
 
 ## Related Artifacts
 

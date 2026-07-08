@@ -6,6 +6,18 @@ This framework helps organizations govern cloud risk and compliance with a repea
 It gives teams a common language for moving from policy intent to operational proof.
 The framework is meant to make compliance easier to evidence without making operations harder to run.
 
+## Governance Flow
+
+```mermaid
+flowchart LR
+    A["Policy Intent"] --> B["Control Design"]
+    B --> C["Ownership"]
+    C --> D["Evidence"]
+    D --> E["Review"]
+    E --> F["Exception Handling"]
+    F --> G["Risk Closure"]
+```
+
 ## What It Covers
 
 - cloud risk governance
@@ -41,6 +53,16 @@ The framework is meant to make compliance easier to evidence without making oper
 - audit readiness checklist
 - control review template
 - executive risk summary
+
+## Control Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Policy | What should exist? | Policy or standard |
+| Control | What must be enforced? | Control matrix |
+| Evidence | What proves it happened? | Audit pack |
+| Ownership | Who is accountable? | Ownership model |
+| Review | What changed? | Exception log or risk register |
 
 ## Practical Value
 

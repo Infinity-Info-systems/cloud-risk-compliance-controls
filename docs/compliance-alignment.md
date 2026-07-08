@@ -4,6 +4,16 @@
 
 Compliance alignment maps cloud controls to the regulatory, contractual, and policy requirements the organization must meet.
 
+## Alignment Table
+
+| Compliance Need | Control Question | Evidence Example |
+| --- | --- | --- |
+| Access control | Who can access sensitive systems? | Access review or IAM report |
+| Encryption | Is sensitive data protected at rest and in transit? | Configuration export or policy attestation |
+| Logging | Are security events captured? | Log retention and monitoring proof |
+| Change control | Are changes reviewed? | Approval record or change ticket |
+| Incident response | Is response traceable? | Incident record or runbook |
+
 ## Alignment Activities
 
 - identify applicable frameworks
@@ -28,6 +38,10 @@ Compliance alignment maps cloud controls to the regulatory, contractual, and pol
 - control test results
 - evidence artifacts
 - exception approvals
+
+## Review Rule
+
+If a compliance requirement cannot be mapped to a control and an evidence source, it should be treated as unresolved rather than assumed covered.
 
 ## Alignment Outcome
 
