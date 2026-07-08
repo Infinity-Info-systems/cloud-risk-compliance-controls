@@ -3,6 +3,7 @@
 ## Purpose
 
 Cloud risk governance defines how risk is identified, assessed, owned, and remediated across the cloud estate.
+It gives the organization one way to track open risk from discovery through closure.
 
 ## Governance Principles
 
@@ -29,3 +30,11 @@ Cloud risk governance defines how risk is identified, assessed, owned, and remed
 - ownership assignments
 - review meeting notes
 - decision records
+
+## Use
+
+Use this page to explain how cloud risk decisions flow from detection to closure.
+
+## Outcome
+
+Good cloud risk governance makes risk visible early and accountable all the way through remediation.

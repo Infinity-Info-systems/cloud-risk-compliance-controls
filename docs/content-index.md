@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for cloud risk governance, compliance alignment, and audit readiness.
 Use it as the fastest way to find the right control, register, or review artifact.
+The order is set up so readers move from governance framing into the exact control and evidence set.
 
 ## Entry Points
 
@@ -53,3 +54,4 @@ Use it as the fastest way to find the right control, register, or review artifac
 ## Shared Direction
 
 Use the same section structure as the other core repos so the governance ecosystem stays consistent and easy to extend.
+If a page does not help prove, review, or maintain a control, move that detail into a more specific artifact.

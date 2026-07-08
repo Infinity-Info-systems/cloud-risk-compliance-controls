@@ -4,6 +4,7 @@
 
 This framework helps organizations govern cloud risk and compliance with a repeatable model for control ownership, evidence collection, audit preparation, and exception management.
 It gives teams a common language for moving from policy intent to operational proof.
+The framework is meant to make compliance easier to evidence without making operations harder to run.
 
 ## What It Covers
 
@@ -44,3 +45,12 @@ It gives teams a common language for moving from policy intent to operational pr
 ## Practical Value
 
 When this framework is used consistently, teams spend less time reconstructing proof and more time closing real gaps.
+
+## How To Read It
+
+Start with the framework overview, then move into the control matrix and governance models.
+That sequence keeps the focus on what needs to be proven before getting into supporting detail.
+
+## Result
+
+The framework helps teams keep controls, evidence, and ownership aligned across cloud environments.

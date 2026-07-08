@@ -6,6 +6,7 @@ This repository presents a cloud risk and compliance controls framework for ente
 
 The framework focuses on aligning cloud governance, Zero Trust architecture, compliance controls, audit readiness, risk ownership, and enterprise security governance across AWS, Azure, GCP, and hybrid cloud platforms.
 It is designed to help teams move from control intent to control evidence in a repeatable way.
+The goal is to make cloud controls visible enough to trust and structured enough to audit.
 
 ## Core Areas
 
@@ -20,6 +21,16 @@ It is designed to help teams move from control intent to control evidence in a r
 - control evidence management
 - executive risk reporting
 - recurring review cadence
+- reusable evidence packages
+- clearer exception handling
+- control-by-control ownership clarity
+
+## Where This Fits In The Ecosystem
+
+- [MCGR Framework](../MCGR-Framework/README.md)
+- [Cloud Governance Assessment Toolkit](../cloud-governance-assessment-toolkit/README.md)
+- [Multi-Cloud Governance Model](../multi-cloud-governance-model/README.md)
+- [AI Governance Framework](../ai-governance-framework/README.md)
 
 ## Objectives
 
@@ -104,3 +115,23 @@ references/         Bibliography
 4. Use the control matrix and audit readiness checklist.
 5. Expand risk registers, evidence, and templates next.
 6. Reuse the same structure when adding new regulations or control families.
+7. Keep evidence, owner, and review cadence visible on the same control path.
+
+## Quick View
+
+| Control Area | Primary Question | Typical Evidence |
+| --- | --- | --- |
+| Identity | Who has access? | Access review report |
+| Data | Is data protected? | Encryption and handling proof |
+| Monitoring | Are events captured? | Log export / monitoring report |
+| Response | What happens when something fails? | Runbook / incident record |
+| Recovery | Can services come back? | Backup / recovery test result |
+
+## Executive Takeaway
+
+Use this repo when leaders need a practical control model for regulated cloud environments.
+It helps answer:
+
+- What control evidence exists?
+- Who owns each control?
+- Where are the biggest compliance gaps?
