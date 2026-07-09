@@ -79,6 +79,11 @@ This repository works best when each page serves one of three roles:
 - [Audit Readiness Checklist](audit-readiness/audit-readiness-checklist.md)
 - [Risk Assessment Template](templates/risk-assessment-template.md)
 
+## Code Direction
+
+This repo now includes a typed control registry in `src/` so the control model can be reused in audit tooling, reporting layers, or future app pages.
+The code layer mirrors the core domains, ownership expectations, and evidence structure already documented in the framework.
+
 ## Framework Components
 
 1. Cloud Risk Governance
