@@ -31,6 +31,7 @@ The goal is to make cloud controls visible enough to trust and structured enough
 - [Cloud Governance Assessment Toolkit](../cloud-governance-assessment-toolkit/README.md)
 - [Multi-Cloud Governance Model](../multi-cloud-governance-model/README.md)
 - [AI Governance Framework](../ai-governance-framework/README.md)
+- [MCGR Public Page](../MCGR-Framework/README.md#featured-research-spotlight)
 
 ## Objectives
 
@@ -83,6 +84,15 @@ This repository works best when each page serves one of three roles:
 
 This repo now includes a typed control registry in `src/` so the control model can be reused in audit tooling, reporting layers, or future app pages.
 The code layer mirrors the core domains, ownership expectations, and evidence structure already documented in the framework.
+
+## Front Door Pattern
+
+Use this repository as the control-level spoke in the MCGR family:
+
+1. Start with the MCGR hub for the executive narrative.
+2. Use this repo for the control catalog, evidence mapping, and audit-ready review logic.
+3. Link back to the hub when you need the broader ecosystem view.
+4. Keep any deeper control-specific detail in the matching docs, matrix, or template file.
 
 ## Framework Components
 
